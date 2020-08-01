@@ -1,0 +1,8 @@
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+        layout: "default"
+        orig-auth: "N/A"
+        orig-url: "N/A"

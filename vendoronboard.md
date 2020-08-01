@@ -1,3 +1,12 @@
+---
+layout: 
+title: Automating the Vendor Onboarding Process
+
+orig-auth: Paul Dipankar
+orig-url: https://pauld365.home.blog/2019/09/29/leverage-your-vendor-on-boarding-with-microsoft-azure-graph-form-flow-dynamics-365-fin-ops/
+---
+
+
 Business story
 It’s a great story of Paul & Associate from South East Asia a Parts Retailer of BMW & Audi cars. Customer is managing 6000 over vendors for their 20 plus legal entities. Managing vendor and on-boarding them with a decentralized system for 20 legal entities very cumbersome. Mr. Jonny, CEO, need a solution to handle this situation, he wants to leverage all the Microsoft Technology Stage in cloud to solve this problem.
 
