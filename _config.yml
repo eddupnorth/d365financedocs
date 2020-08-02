@@ -6,3 +6,5 @@ defaults:
         layout: "default"
         orig-auth: "N/A"
         orig-url: "N/A"
+
+theme: jekyll-theme-tactile
