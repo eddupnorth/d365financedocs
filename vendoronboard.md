@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: default
 title: Automating the Vendor Onboarding Process
 
 orig-auth: Paul Dipankar
@@ -21,11 +21,11 @@ This generates a form from which you can distribute (e.g. embedding on your webs
 
 ### How to create form.
 
-1. Open you browser and type : forms.office.com
-2. Form will open.
-3. Create a new form click the create new form option.
-4. New form creation page will open
-5. Put the form titled “I am interested supply goods and services to Paul & Associates”, and enter the description.
+1. Open your browser and type : forms.office.com
+2. Microsoft Forms will open.
+3. Create a new Form click the create new Form option.
+4. New Form creation page will open
+5. Put the form titled “I am interested in supplying goods and services to Paul & Associates”, and enter the description.
 6. For adding your questions click add new. Now we create the all information which you want to capture during vendor interest. In the form you can create one by one.
 
 For adding any new fields you have to determine the field type. Add the following fields:
